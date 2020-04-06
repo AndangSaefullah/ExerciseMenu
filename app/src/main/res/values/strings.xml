@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExerciseMenu</string>
+    <string name="jdl">Login User</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="txtun">Masukkan Username</string>
+    <string name="txtpass">Masukkan Password</string>
+</resources>
