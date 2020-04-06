@@ -11,4 +11,5 @@
     <string name="persegipanjang">Persegi Panjang</string>
     <string name="lingkaran">Lingkaran</string>
     <string name="segitiga">Segitiga</string>
+    <string name="trapesium">Trapesium</string>
 </resources>

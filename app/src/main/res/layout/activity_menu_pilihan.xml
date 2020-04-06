@@ -84,6 +84,19 @@
                 android:layout_height="wrap_content"
                 android:text="@string/lingkaran"/>
 
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_margin="10dp"
+                android:id="@+id/gmbrtrapesium"
+                android:background="@drawable/trapesium">
+            </Button>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/trapesium"/>
+
 
 
         </LinearLayout>
